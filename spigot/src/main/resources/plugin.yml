@@ -1,0 +1,4 @@
+name: BetterAntiCheat_DataCollector
+main: dev.cardinal.betteranticheat.datacollector.spigot.BetterAntiCheatDataCollector
+version: 0.0.1
+author: CardinalDevLab, Isla4ever
